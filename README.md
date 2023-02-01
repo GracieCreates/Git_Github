@@ -13,7 +13,7 @@ ___
 4. Create a new folder 
 ___
 ## Open your **Terminal**
-5. enter these 2 lines (seperately)
+5. enter these 2 lines 
 ```bash
 	cd <named folder>
 
